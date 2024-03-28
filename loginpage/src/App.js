@@ -7,7 +7,7 @@ function App() {
     <div className='App container pt-5'>
     <div className="text-center">
       <h1 className='mb-5'>Build a React Modal Popup Login Form With Hooks and Get Values</h1>
-      <p className='mb-3'>This is a brief description of the React Modal Popup Login Form. You can use hooks to manage the form state and retrieve input values.</p>
+      <p className='mb-3'>This is a brief description of the React Modal Popup Login Form. You can use hooks to manage the form state and retrieve input values............</p>
       <button 
         type="button" 
         className="btn btn-primary btn-lg rounded-pill px-5 py-3" 
